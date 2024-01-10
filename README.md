@@ -1,17 +1,16 @@
 # Repositório de Bibliotecas de Funções JavaScript
 
-Este repositório serve como um armazém para diversas bibliotecas de funções JavaScript, projetadas para simplificar e aprimorar o desenvolvimento web. Cada biblioteca contém um conjunto de funções específicas para diferentes finalidades, proporcionando reutilização e eficiência em seus projetos.
+Este repositório é um hub de bibliotecas de funções JavaScript, criadas para aprimorar o desenvolvimento web. Cada biblioteca oferece um conjunto específico de funções, proporcionando eficiência e reutilização em projetos diversos.
 
+## Bibliotecas Disponíveis 
 
-## Bibliotecas disponíveis 
+### 1. Funções para Validação de Formulário
+- Simplifica o processo de validação de dados em formulários.
+- Contém 9 funções essenciais para validações comuns.
 
-### 1. Funções para validação de Formulário.
-- Essas funções foram projetadas para simplificar e aprimorar o processo de validação de dados em formulários.
-- Atualmente a bliblioteca possui 9 funções.
+## Como Contribuir 
 
-## Contribuição 
-
-- Contribuições são bem-vindas! Se você tem sugestões, correções ou novas bibliotecas para adicionar, abra um issue ou envie um pull request.
+- Contribuições são incentivadas! Se você tem sugestões, correções ou novas bibliotecas, sinta-se à vontade para abrir um issue ou enviar um pull request.
 
 ## Licença
-### Este repositório está licenciado sob a Licença MIT.
+### Este repositório está licenciado sob a [Licença MIT](LICENSE).
