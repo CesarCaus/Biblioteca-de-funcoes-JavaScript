@@ -11,9 +11,9 @@ Bem-vindo à documentação da biblioteca de funções para validação de formu
      - `dados`: O conteúdo a ser armazenado.
 
 ## 2. recuperarDados(chave)
-   - **Descrição:** Recupera dados do Local Storage usando a chave.
+   - **Descrição:** Recupera dados (objetos) do Local Storage usando a chave.
    - **Parâmetros:**
-     - `chave`: A chave utilizada para recuperar o conteúdo no Local Storage.
+     - `chave`: A chave utilizada para recuperar o objeto no Local Storage.
 
 ## 3. inputsVazios(inputs)
    - **Descrição:** Valida se existem inputs vazios.

@@ -2,22 +2,19 @@ function salvarDados(chave, dados) { //Função para salvar os dados em Local St
     localStorage.setItem(chave, JSON.stringify(dados));
 }
 
-function recuperarDados(chave) { //Função para recuperar dados do Local Storage
+function recuperarDados(chave) { //Função para recuperar dados (objetos) do Local Storage
     return JSON.parse(localStorage.getItem(chave))
 }
 
 function inputsVazios(inputs) { //Função para validar se existem Inputs vazios
-    if (!Array.isArray(inputs)) {
-        inputs = [inputs]; 
-    }
 
     let inputVazio = false;
 
-    inputs.forEach(input => {
-        if (input.value.trim() === '') {
+    for(var i = 0; i < inputs.length; i ++) {
+        if(inputs[i].value.trim() === '') {
             inputVazio = true;
         }
-    });
+    }
 
     return inputVazio;
 }
