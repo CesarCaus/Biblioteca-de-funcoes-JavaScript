@@ -6,11 +6,11 @@ Este repositório é um hub de bibliotecas de funções JavaScript, criadas para
 
 ### 1. Funções para Validação de Formulário
 - Simplifica o processo de validação de dados em formulários.
-- Contém atualmente 9 funções essenciais para manipulações comuns.
+- Contém 9 funções essenciais para validações comuns.
 
 ### 2. Funções Adicionais para Manipulação do CSS e DOM
 - Facilita a manipulação do DOM e a interação com o estilo das páginas.
-- Contém atualmente 5 funções essenciais para validações comuns.
+- Contém atualmente 5 funções essenciais para manipulações comuns.
 
 ## Como Contribuir 
 
